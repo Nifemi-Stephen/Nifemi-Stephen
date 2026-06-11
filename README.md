@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Nifemi Ashaolu
 
-<!--
-**Nifemi-Stephen/Nifemi-Stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Cloud & DevOps Engineer passionate about building scalable, secure, and highly available infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Design and automate cloud infrastructure with Terraform
+- Build CI/CD pipelines using GitHub Actions
+- Deploy containerized applications with Docker and Kubernetes
+- Implement GitOps workflows with ArgoCD
+- Work with AWS & Azure services and Infrastructure as Code
+- Focus on reliability, scalability, and continuous improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Cloud
+AWS
+Azure
+
+### Infrastructure as Code
+Terraform
+
+### Containers & Orchestration
+Docker • Kubernetes • Helm
+
+### CI/CD
+Jenkins • GitHub Actions • ArgoCD
+
+### Monitoring
+Prometheus • Grafana
+
+### Version Control
+Git • GitHub
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/nifemi-ashaolu/
