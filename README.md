@@ -13,8 +13,7 @@
 ## 🛠️ Tech Stack
 
 ### Cloud
-AWS
-Azure
+AWS • Azure • GCP
 
 ### Infrastructure as Code
 Terraform
